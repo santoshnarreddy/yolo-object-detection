@@ -1,3 +1,15 @@
+---
+title: YOLOv8 Real-Time Object Detection
+emoji: 🔍
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🔍 YOLOv8 Object Detection
 
 Real-time object detection using **YOLOv8** (Ultralytics) — the current state of the art for single-stage detectors. Supports webcam, images, and videos out of the box, plus a full pipeline for **training on custom datasets**.
